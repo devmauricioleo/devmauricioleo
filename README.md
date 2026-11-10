@@ -11,10 +11,12 @@
 
   <br/>
 
-  <!-- TYPING ANIMATION -->
+ <!-- TYPING ANIMATION -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Mauricio+Leonardo;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+tecnologias+e+construindo+conhecimento" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=850&height=80&lines=Ol%C3%A1%2C+eu+sou+Mauricio+Leonardo;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+tecnologias+e+construindo+conhecimento" alt="Typing SVG" />
   </a>
+</div>
 
   <br/>
 
