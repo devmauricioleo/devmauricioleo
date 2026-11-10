@@ -48,8 +48,6 @@ Atualmente, estudo e exploro diferentes tecnologias, procurando transformar apre
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Excel-101010?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-
 </div>
 
 ---
