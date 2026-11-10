@@ -76,12 +76,13 @@ Atualmente, estudo e exploro diferentes tecnologias, procurando transformar apre
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devmauricioleo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=FFFFFF&cache_seconds=86400" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devmauricioleo&show_icons=true&theme=dark&bg_color=050505&title_color=00C896&icon_color=00C896&text_color=FFFFFF&border_color=202020&hide_border=false&include_all_commits=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmauricioleo&layout=compact&theme=dark&bg_color=050505&title_color=00C896&text_color=FFFFFF&border_color=202020&hide_border=false" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmauricioleo&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=FFFFFF&cache_seconds=86400" />
 </div>
+
+
+2. Substitua o Históri
 
 ---
 
@@ -98,9 +99,7 @@ Atualmente, estudo e exploro diferentes tecnologias, procurando transformar apre
 ## 📈 Histórico de atividades
 
 <div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmauricioleo&bg_color=050505&color=FFFFFF&line=00C896&point=00C896&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" />
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmauricioleo&bg_color=0D1117&color=FFFFFF&line=00C896&point=00C896&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" />
 </div>
 
 ---
@@ -108,9 +107,7 @@ Atualmente, estudo e exploro diferentes tecnologias, procurando transformar apre
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=devmauricioleo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=devmauricioleo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" />
 </div>
 
 ---
@@ -118,9 +115,7 @@ Atualmente, estudo e exploro diferentes tecnologias, procurando transformar apre
 ## 🐍 Snake Contribution
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/devmauricioleo/devmauricioleo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+  <img width="100%" src="https://raw.githubusercontent.com/devmauricioleo/devmauricioleo/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution" />
 </div>
 
 ---
