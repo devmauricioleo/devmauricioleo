@@ -98,7 +98,11 @@ Atualmente, estudo e exploro diferentes tecnologias, procurando transformar apre
 ## 📈 Histórico de atividades
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmauricioleo&bg_color=0D1117&color=FFFFFF&line=00C896&point=00C896&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img
+    width="100%"
+    src="https://gh-heat.anishroy.com/api/devmauricioleo/svg?theme=green&darkMode=true"
+    alt="Histórico de contribuições do GitHub"
+  />
 </div>
 
 ---
